@@ -40,6 +40,7 @@ I'm a passionate developer focused on building seamless integrations and apps. C
 
 | Project | Description | Tech | Stars |
 |---------|-------------|------|-------|
+| [HolyPipe](https://github.com/tbwahacker/holypipe) | Python ELT & Data replication tool - seamless data pipeline and replecation | Python | ⭐ 0 |
 | [azampay-sdk-anga](https://github.com/tbwahacker/azampay-sdk-anga) | Python SDK for AzamPay API - seamless payment processing | Python | ⭐ 3 |
 | [android-near-by-places](https://github.com/tbwahacker/android-near-by-places) | Find nearby places within 5km | Java | ⭐ 2 |
 | [Recruitment-Management-System](https://github.com/tbwahacker/Recruitment-Management-System) | System for managing recruitments | Python | ⭐ 1 |
